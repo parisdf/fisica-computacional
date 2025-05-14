@@ -1,0 +1,33 @@
+  ingrese valor filtro para tmin
+ ingrese el valor de filtro de temperatura
+ Meses y datos leídos del archivo:
+ Mes: Ene                  Datos:    23.6000004       31.1000004       16.2999992       67.0999985       54.0999985    
+ Mes: Feb                  Datos:    22.1000004       29.6000004       15.1999998       67.0999985       60.5000000    
+ Mes: Mar                  Datos:    19.3999996       26.6000004       13.3999996       75.1999969       66.5000000    
+ Mes: Abr                  Datos:    14.8999996       21.7999992       9.19999981       54.5000000       70.5000000    
+ Mes: May                  Datos:    11.1000004       17.5000000       6.00000000       41.2000008       74.5000000    
+ Mes: Jun                  Datos:    8.10000038       14.1000004       3.29999995       31.5000000       75.0999985    
+ Mes: Jul                  Datos:    7.50000000       13.6999998       2.40000010       31.1000004       73.8000031    
+ Mes: Ago                  Datos:    9.39999962       16.2999992       3.90000010       34.5000000       68.9000015    
+ Mes: Sep                  Datos:    11.6000004       18.5000000       5.59999990       51.5999985       67.1999969    
+ Mes: Oct                  Datos:    15.1000004       22.2000008       8.50000000       73.3000031       64.8000031    
+ Mes: Nov                  Datos:    18.7000008       25.8999996       11.3999996       56.7999992       58.5000000    
+ Mes: Dic                  Datos:    22.0000000       29.2999992       14.3999996       67.3000031       53.2999992    
+ La maxima temperatura registrada entre las maximas es:   31.1000004      durante el mes de Ene                 
+ meses donde tmin >   5.50000000     :
+ Ene                    16.2999992    
+ Feb                    15.1999998    
+ Mar                    13.3999996    
+ Abr                    9.19999981    
+ May                    6.00000000    
+ Sep                    5.59999990    
+ Oct                    8.50000000    
+ Nov                    11.3999996    
+ Dic                    14.3999996    
+ El promedio de las temperaturas medias durante el año es:   15.2916670    
+ La humedad relativa minima durante el año fue:    53.2999992     durante el mes de Dic                 
+ meses donde la temperatura se aproxima a    20.0000000    
+ Feb                    22.1000004    
+ Mar                    19.3999996    
+ Nov                    18.7000008    
+ Dic                    22.0000000    
